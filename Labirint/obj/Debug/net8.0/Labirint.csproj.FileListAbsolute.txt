@@ -1,0 +1,14 @@
+C:\GB\CSharp\Labirint\Labirint\bin\Debug\net8.0\Labirint.exe
+C:\GB\CSharp\Labirint\Labirint\bin\Debug\net8.0\Labirint.deps.json
+C:\GB\CSharp\Labirint\Labirint\bin\Debug\net8.0\Labirint.runtimeconfig.json
+C:\GB\CSharp\Labirint\Labirint\bin\Debug\net8.0\Labirint.dll
+C:\GB\CSharp\Labirint\Labirint\bin\Debug\net8.0\Labirint.pdb
+C:\GB\CSharp\Labirint\Labirint\obj\Debug\net8.0\Labirint.GeneratedMSBuildEditorConfig.editorconfig
+C:\GB\CSharp\Labirint\Labirint\obj\Debug\net8.0\Labirint.AssemblyInfoInputs.cache
+C:\GB\CSharp\Labirint\Labirint\obj\Debug\net8.0\Labirint.AssemblyInfo.cs
+C:\GB\CSharp\Labirint\Labirint\obj\Debug\net8.0\Labirint.csproj.CoreCompileInputs.cache
+C:\GB\CSharp\Labirint\Labirint\obj\Debug\net8.0\Labirint.dll
+C:\GB\CSharp\Labirint\Labirint\obj\Debug\net8.0\refint\Labirint.dll
+C:\GB\CSharp\Labirint\Labirint\obj\Debug\net8.0\Labirint.pdb
+C:\GB\CSharp\Labirint\Labirint\obj\Debug\net8.0\Labirint.genruntimeconfig.cache
+C:\GB\CSharp\Labirint\Labirint\obj\Debug\net8.0\ref\Labirint.dll
