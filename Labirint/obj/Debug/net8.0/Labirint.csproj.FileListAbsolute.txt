@@ -12,3 +12,4 @@ C:\GB\CSharp\Labirint\Labirint\obj\Debug\net8.0\refint\Labirint.dll
 C:\GB\CSharp\Labirint\Labirint\obj\Debug\net8.0\Labirint.pdb
 C:\GB\CSharp\Labirint\Labirint\obj\Debug\net8.0\Labirint.genruntimeconfig.cache
 C:\GB\CSharp\Labirint\Labirint\obj\Debug\net8.0\ref\Labirint.dll
+C:\GB\CSharp\Labirint\Labirint\obj\Debug\net8.0\Labirint.sourcelink.json
